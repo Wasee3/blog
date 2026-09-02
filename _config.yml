@@ -1,0 +1,26 @@
+title: Ahmed's Blog
+description: Thoughts, notes, and writing.
+author: Ahmed
+
+# For a project site served at https://wasee3.github.io/blog/
+url: "https://wasee3.github.io"
+baseurl: "/blog"
+
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Show these pages in the site nav
+header_pages:
+  - about.md
+
+# Pagination / build settings
+paginate: 5
+timezone: Etc/UTC
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - vendor
