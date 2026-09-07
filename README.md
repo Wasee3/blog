@@ -1,4 +1,4 @@
-# Wasee's Blog
+# Wasee's DevOps Blog
 
 A [Jekyll](https://jekyllrb.com/) blog hosted on GitHub Pages at
 <https://wasee3.github.io/blog/>.
