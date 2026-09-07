@@ -1,4 +1,4 @@
-# Ahmed's Blog
+# Wasee's Blog
 
 A [Jekyll](https://jekyllrb.com/) blog hosted on GitHub Pages at
 <https://wasee3.github.io/blog/>.
