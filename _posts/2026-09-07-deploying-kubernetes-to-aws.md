@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The empty list that redesigned my platform twice"
+title: "Deploying Kubernetes to AWS"
 date: 2026-09-07 12:00:00 +0000
 categories: platform kubernetes argocd
 ---
